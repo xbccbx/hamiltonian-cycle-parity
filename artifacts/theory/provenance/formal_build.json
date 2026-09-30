@@ -1,0 +1,7 @@
+{
+  "bench_poly.cpp": "815627846796727cd4cafbc44584e9838d828572d1dcc2ec88597528bdaaf387",
+  "input_families.hpp": "49eae6f213e4e692771f03da39cc149b4aee91c5671b16ec745a3ae4e3718f81",
+  "bench_poly": "8217114b5afbac5630acb9bc86c4e3d89d5973acd0a31d98d5a1db975e57aa0e",
+  "run_poly.py": "888fdf9224d995bbfe81c10d43749480a6f5be9ad8f81647941659e863b6758f",
+  "../practical/baseline.cpp": "ba5bf75105780667daf132c95fa4806daca732b69a00eeb296ef70c022f9cfdf"
+}

@@ -1,0 +1,13 @@
+{
+  "runs": 276,
+  "statuses": {
+    "ok": 276
+  },
+  "complete_correct_pairs": 138,
+  "unpaired_groups": 0,
+  "noncompleted_runs": [],
+  "distinct_input_hashes": 120,
+  "mismatches": 0,
+  "answer_invariance_mismatches": 0,
+  "p2_invariance_mismatches": 0
+}

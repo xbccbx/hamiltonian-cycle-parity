@@ -1,0 +1,25 @@
+{
+  "status": "passed",
+  "exhaustive_loopless_graphs": 4164,
+  "additional_graphs": 18,
+  "ownership_graph_state_pairs": 5421,
+  "max_insertion_to_center_ratio": "8/3",
+  "product_systems": 24,
+  "translations": 720,
+  "controller_syndromes": 64,
+  "minimum_controller_solutions": 9,
+  "exact_thresholds": [
+    33,
+    59
+  ],
+  "checks": [
+    "rollback prefix counts versus exhaustive parameter enumeration",
+    "visit budget, ownership uniqueness, weighted P3 versus independent subset DP",
+    "all diagonals at n<=3",
+    "exact joint moments",
+    "controller amplification constants",
+    "general product listing and translation visit identity"
+  ],
+  "seconds": 1.419,
+  "performance_benchmark": false
+}

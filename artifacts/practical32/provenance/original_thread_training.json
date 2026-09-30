@@ -1,0 +1,27 @@
+{
+  "threads": {
+    "bh-practical": 24,
+    "kw-practical": 32
+  },
+  "relative_geometric_mean": {
+    "bh-practical": {
+      "8": 2.621475766338652,
+      "16": 1.7789432645107366,
+      "24": 1.1300037606022697,
+      "32": 1.0802691578206358
+    },
+    "kw-practical": {
+      "8": 2.8015189752772014,
+      "16": 1.5969408691725724,
+      "24": 1.152500372992047,
+      "32": 1.0591373584460573
+    }
+  },
+  "rule": "minimum threads within 5% of the best geometric-mean normalized time",
+  "training_graph_seeds": [
+    101,
+    202,
+    303
+  ],
+  "frozen": true
+}

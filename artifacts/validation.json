@@ -1,0 +1,18 @@
+{
+  "input_files_verified": 34,
+  "formal_pairs": 49,
+  "formal_runs": 98,
+  "dp_runs": 189,
+  "dp_graphs": 21,
+  "practical_records": 276,
+  "practical_pairs": 138,
+  "practical_graphs": 120,
+  "practical_shortcuts": 9,
+  "practical_sources": {
+    "new_bh32_original_kw32": 133,
+    "existing_same32_pair": 5
+  },
+  "all_archived_summary_values_match": true,
+  "all_checked_answers_and_hashes_match": true,
+  "new_performance_runs": 0
+}

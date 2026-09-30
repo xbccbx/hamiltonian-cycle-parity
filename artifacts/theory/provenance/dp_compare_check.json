@@ -1,0 +1,15 @@
+{
+  "runs": 189,
+  "statuses": {
+    "ok": 189
+  },
+  "runs_per_method": {
+    "dp-bit": 63,
+    "kw-ce": 63,
+    "bh-ce": 63
+  },
+  "complete_input_comparisons": 21,
+  "answer_mismatches": 0,
+  "same_method_count_mismatches": 0,
+  "noncompleted_runs": []
+}

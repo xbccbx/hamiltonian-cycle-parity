@@ -1,0 +1,274 @@
+[
+  {
+    "source": "1592/v3-exsum/polynomial/results/calibration.jsonl",
+    "path": "artifacts/theory/data/calibration.jsonl",
+    "sha256": "1dcada1eb940d452b52179a7ef031a0c0c2b570f4d3940d105ec1f326e38469e",
+    "original_sha256": "1dcada1eb940d452b52179a7ef031a0c0c2b570f4d3940d105ec1f326e38469e",
+    "bytes": 11236,
+    "adaptation": null
+  },
+  {
+    "source": "1592/v3-exsum/polynomial/results/size.jsonl",
+    "path": "artifacts/theory/data/size.jsonl",
+    "sha256": "7d76e5188e0a43ffd7fce6417304ebee1532af26b75f33f2c6761bb32a1c743d",
+    "original_sha256": "7d76e5188e0a43ffd7fce6417304ebee1532af26b75f33f2c6761bb32a1c743d",
+    "bytes": 34550,
+    "adaptation": null
+  },
+  {
+    "source": "1592/v3-exsum/polynomial/results/breadth.jsonl",
+    "path": "artifacts/theory/data/breadth.jsonl",
+    "sha256": "19cb2b8dc084209db5a94eb8ba66165668fa4fcb965191819a6064c261840799",
+    "original_sha256": "19cb2b8dc084209db5a94eb8ba66165668fa4fcb965191819a6064c261840799",
+    "bytes": 15011,
+    "adaptation": null
+  },
+  {
+    "source": "1592/v3-exsum/polynomial/results/lower.jsonl",
+    "path": "artifacts/theory/data/lower.jsonl",
+    "sha256": "f88e672b8af485f0c3b914b6438e1d8a3cd9a01b3bd9910c6ec6dbdca1ea44f3",
+    "original_sha256": "f88e672b8af485f0c3b914b6438e1d8a3cd9a01b3bd9910c6ec6dbdca1ea44f3",
+    "bytes": 10938,
+    "adaptation": null
+  },
+  {
+    "source": "1592/v3-exsum/polynomial/results/dp_compare.jsonl",
+    "path": "artifacts/theory/data/dp_compare.jsonl",
+    "sha256": "3ec5987c43d6fc151424c33e4bfd9a7a7a8bb65db9b31bcb7ad3c4c5cb838141",
+    "original_sha256": "3ec5987c43d6fc151424c33e4bfd9a7a7a8bb65db9b31bcb7ad3c4c5cb838141",
+    "bytes": 113780,
+    "adaptation": null
+  },
+  {
+    "source": "1592/v3-exsum/polynomial/results/summary.json",
+    "path": "artifacts/theory/data/summary.json",
+    "sha256": "890d880063e47f272ac94a93edb00bd54e3355fe7621f01dcb7be741d1d6a8df",
+    "original_sha256": "890d880063e47f272ac94a93edb00bd54e3355fe7621f01dcb7be741d1d6a8df",
+    "bytes": 17362,
+    "adaptation": null
+  },
+  {
+    "source": "1592/v3-exsum/polynomial/results/dp_compare_summary.json",
+    "path": "artifacts/theory/data/dp_compare_summary.json",
+    "sha256": "cd1effea0c1c64d8031baab09fff2d8615d1feb374eeeeedeea76646c5cdb334",
+    "original_sha256": "cd1effea0c1c64d8031baab09fff2d8615d1feb374eeeeedeea76646c5cdb334",
+    "bytes": 5311,
+    "adaptation": null
+  },
+  {
+    "source": "1592/v3-exsum/polynomial/results/configuration.json",
+    "path": "artifacts/theory/provenance/configuration.json",
+    "sha256": "d831af0d7cf2f4aae812f1653b5970b257c05077ca0e248fa781f1574ad84bbd",
+    "original_sha256": "d831af0d7cf2f4aae812f1653b5970b257c05077ca0e248fa781f1574ad84bbd",
+    "bytes": 275,
+    "adaptation": null
+  },
+  {
+    "source": "1592/v3-exsum/polynomial/results/formal_build.json",
+    "path": "artifacts/theory/provenance/formal_build.json",
+    "sha256": "1486aae1ec5a470c09d5cfa7ab44dbe061ec92b3b2843e9bd6c22e7a17a8629e",
+    "original_sha256": "1486aae1ec5a470c09d5cfa7ab44dbe061ec92b3b2843e9bd6c22e7a17a8629e",
+    "bytes": 450,
+    "adaptation": null
+  },
+  {
+    "source": "1592/v3-exsum/polynomial/results/formal_verification.json",
+    "path": "artifacts/theory/provenance/formal_verification.json",
+    "sha256": "333d197e52eba20af533b8dfb4b8331c05f033e9589caf8d19f216323d594b4c",
+    "original_sha256": "333d197e52eba20af533b8dfb4b8331c05f033e9589caf8d19f216323d594b4c",
+    "bytes": 62,
+    "adaptation": null
+  },
+  {
+    "source": "1592/v3-exsum/polynomial/results/crosscheck.json",
+    "path": "artifacts/theory/provenance/crosscheck.json",
+    "sha256": "2b09a65d612f514e8db69533a608ca91e8c823b03feaa571efcc4038ebeb0d6c",
+    "original_sha256": "2b09a65d612f514e8db69533a608ca91e8c823b03feaa571efcc4038ebeb0d6c",
+    "bytes": 513,
+    "adaptation": null
+  },
+  {
+    "source": "1592/v3-exsum/polynomial/results/dp_compare_protocol.json",
+    "path": "artifacts/theory/provenance/dp_compare_protocol.json",
+    "sha256": "a7a9278367a000cc83524cbca6baf2f2bdb774397a8b5d204bfb1bf4164a5eab",
+    "original_sha256": "a7a9278367a000cc83524cbca6baf2f2bdb774397a8b5d204bfb1bf4164a5eab",
+    "bytes": 446,
+    "adaptation": null
+  },
+  {
+    "source": "1592/v3-exsum/polynomial/results/dp_compare_build.json",
+    "path": "artifacts/theory/provenance/dp_compare_build.json",
+    "sha256": "acececf66f94ae59b56f63fecc258f44aa30f5d58e1dc6ac2632562e75de7fdd",
+    "original_sha256": "acececf66f94ae59b56f63fecc258f44aa30f5d58e1dc6ac2632562e75de7fdd",
+    "bytes": 823,
+    "adaptation": null
+  },
+  {
+    "source": "1592/v3-exsum/polynomial/results/dp_compare_check.json",
+    "path": "artifacts/theory/provenance/dp_compare_check.json",
+    "sha256": "f52cdbf73892c06aadd58964004f329942bf7c64acc8baecf6ed3ff9410da1f1",
+    "original_sha256": "f52cdbf73892c06aadd58964004f329942bf7c64acc8baecf6ed3ff9410da1f1",
+    "bytes": 271,
+    "adaptation": null
+  },
+  {
+    "source": "1592/v3-exsum/polynomial/results/environment.txt",
+    "path": "artifacts/theory/provenance/environment.txt",
+    "sha256": "cfbc05cdb2c6a0052117b1ec7e909a6136c5f8ff549a68590e5446dcdf11bab4",
+    "original_sha256": "cfbc05cdb2c6a0052117b1ec7e909a6136c5f8ff549a68590e5446dcdf11bab4",
+    "bytes": 3780,
+    "adaptation": null
+  },
+  {
+    "source": "1592/v3-exsum/polynomial/bench_poly.cpp",
+    "path": "artifacts/theory/code/bench_poly.cpp",
+    "sha256": "14395dc823b2c1ad5ceefccf78f1891dec93025839f276537e6cfab0c94a48e8",
+    "original_sha256": "815627846796727cd4cafbc44584e9838d828572d1dcc2ec88597528bdaaf387",
+    "bytes": 13030,
+    "adaptation": "local include path only"
+  },
+  {
+    "source": "1592/v3-exsum/polynomial/input_families.hpp",
+    "path": "artifacts/theory/code/input_families.hpp",
+    "sha256": "49eae6f213e4e692771f03da39cc149b4aee91c5671b16ec745a3ae4e3718f81",
+    "original_sha256": "49eae6f213e4e692771f03da39cc149b4aee91c5671b16ec745a3ae4e3718f81",
+    "bytes": 1864,
+    "adaptation": null
+  },
+  {
+    "source": "1592/v3-exsum/practical/baseline.cpp",
+    "path": "artifacts/theory/code/baseline.cpp",
+    "sha256": "ba5bf75105780667daf132c95fa4806daca732b69a00eeb296ef70c022f9cfdf",
+    "original_sha256": "ba5bf75105780667daf132c95fa4806daca732b69a00eeb296ef70c022f9cfdf",
+    "bytes": 32647,
+    "adaptation": null
+  },
+  {
+    "source": "1592/v3-exsum/practical32/results/corrected.jsonl",
+    "path": "artifacts/practical32/data/corrected.jsonl",
+    "sha256": "a1910ad98761430579087d966537b04b595e4ad8b678c71dd38ee917cf94c286",
+    "original_sha256": "a1910ad98761430579087d966537b04b595e4ad8b678c71dd38ee917cf94c286",
+    "bytes": 222751,
+    "adaptation": null
+  },
+  {
+    "source": "1592/v3-exsum/practical32/results/bh32.jsonl",
+    "path": "artifacts/practical32/data/bh32.jsonl",
+    "sha256": "c17556a4d861a01f54b1ea7a19fbbd5655939d06f1d6f59dc039527e5db18502",
+    "original_sha256": "c17556a4d861a01f54b1ea7a19fbbd5655939d06f1d6f59dc039527e5db18502",
+    "bytes": 89935,
+    "adaptation": null
+  },
+  {
+    "source": "1592/v3-exsum/practical32/results/references.json",
+    "path": "artifacts/practical32/data/references.json",
+    "sha256": "515e84c08be1e7840c458e317fbada2c2010ce8f940f717c9fd15f311264561a",
+    "original_sha256": "515e84c08be1e7840c458e317fbada2c2010ce8f940f717c9fd15f311264561a",
+    "bytes": 348141,
+    "adaptation": null
+  },
+  {
+    "source": "1592/v3-exsum/practical32/results/sources.csv",
+    "path": "artifacts/practical32/data/sources.csv",
+    "sha256": "0d98df607abda533914ba83633617bf2e58e9f0707b8418e07318cd5b1a1934c",
+    "original_sha256": "0d98df607abda533914ba83633617bf2e58e9f0707b8418e07318cd5b1a1934c",
+    "bytes": 21321,
+    "adaptation": null
+  },
+  {
+    "source": "1592/v3-exsum/practical32/results/summary.json",
+    "path": "artifacts/practical32/data/summary.json",
+    "sha256": "58ac347b13088d99aa0f6b2ca1af8e00d1cd0f69a92437ea0becaea3018a9bfe",
+    "original_sha256": "58ac347b13088d99aa0f6b2ca1af8e00d1cd0f69a92437ea0becaea3018a9bfe",
+    "bytes": 25447,
+    "adaptation": null
+  },
+  {
+    "source": "1592/v3-exsum/practical32/results/build.json",
+    "path": "artifacts/practical32/provenance/build.json",
+    "sha256": "b7cdd75508c165ed47255d32cdb743af0692d0cf4b55a44b1c7faacac0e91b98",
+    "original_sha256": "b7cdd75508c165ed47255d32cdb743af0692d0cf4b55a44b1c7faacac0e91b98",
+    "bytes": 655,
+    "adaptation": null
+  },
+  {
+    "source": "1592/v3-exsum/practical32/results/crosscheck.json",
+    "path": "artifacts/practical32/provenance/crosscheck.json",
+    "sha256": "8129f9d9ca71c170e3ef2f02d1c3a04a704e368d844aff7d8be2547cfab6f1ce",
+    "original_sha256": "8129f9d9ca71c170e3ef2f02d1c3a04a704e368d844aff7d8be2547cfab6f1ce",
+    "bytes": 269,
+    "adaptation": null
+  },
+  {
+    "source": "1592/v3-exsum/practical32/results/completion.json",
+    "path": "artifacts/practical32/provenance/completion.json",
+    "sha256": "0e8371c4007f3ff9f8289b7e7be78ea743184fc0bcbe819aaa21ae646043ee10",
+    "original_sha256": "0e8371c4007f3ff9f8289b7e7be78ea743184fc0bcbe819aaa21ae646043ee10",
+    "bytes": 122,
+    "adaptation": null
+  },
+  {
+    "source": "1592/v3-exsum/practical32/results/provenance.json",
+    "path": "artifacts/practical32/provenance/provenance.json",
+    "sha256": "e00c32517d6a09404ed97192915153316ccd1858eaaed9a8fd96e51db6c02c2d",
+    "original_sha256": "e00c32517d6a09404ed97192915153316ccd1858eaaed9a8fd96e51db6c02c2d",
+    "bytes": 152,
+    "adaptation": null
+  },
+  {
+    "source": "1592/v3-exsum/practical32/results/environment.txt",
+    "path": "artifacts/practical32/provenance/environment.txt",
+    "sha256": "bc0aaefe10a99e0cd8b8ef234e58eabc84e946f945afeaf9049bb3064fb5c186",
+    "original_sha256": "bc0aaefe10a99e0cd8b8ef234e58eabc84e946f945afeaf9049bb3064fb5c186",
+    "bytes": 3780,
+    "adaptation": null
+  },
+  {
+    "source": "1592/v3-exsum/practical/extended.cpp",
+    "path": "artifacts/practical32/code/extended.cpp",
+    "sha256": "7faa819efd8abdae636c001d60cc3cbddca5f3a2ca9adbf41a78a63a740cb35e",
+    "original_sha256": "7faa819efd8abdae636c001d60cc3cbddca5f3a2ca9adbf41a78a63a740cb35e",
+    "bytes": 7138,
+    "adaptation": null
+  },
+  {
+    "source": "1592/v3-exsum/practical/baseline.cpp",
+    "path": "artifacts/practical32/code/baseline.cpp",
+    "sha256": "ba5bf75105780667daf132c95fa4806daca732b69a00eeb296ef70c022f9cfdf",
+    "original_sha256": "ba5bf75105780667daf132c95fa4806daca732b69a00eeb296ef70c022f9cfdf",
+    "bytes": 32647,
+    "adaptation": null
+  },
+  {
+    "source": "1592/v3-exsum/practical/results/configuration.json",
+    "path": "artifacts/practical32/provenance/original_thread_training.json",
+    "sha256": "981445ee922850e6eb2762a09031525c146e4f9a37dd247829c9a2c019f6daa8",
+    "original_sha256": "981445ee922850e6eb2762a09031525c146e4f9a37dd247829c9a2c019f6daa8",
+    "bytes": 571,
+    "adaptation": null
+  },
+  {
+    "source": "1592/v3-exsum/practical/results/verification.json",
+    "path": "artifacts/practical32/provenance/original_verification.json",
+    "sha256": "e4894738eeed50f1374d25ca19db6d8c582a97a8867bb5df665b46540e7b3602",
+    "original_sha256": "e4894738eeed50f1374d25ca19db6d8c582a97a8867bb5df665b46540e7b3602",
+    "bytes": 32,
+    "adaptation": null
+  },
+  {
+    "source": "1592/v3-exsum/polynomial/NOTES.md",
+    "path": "artifacts/theory/IMPLEMENTATION_NOTES.md",
+    "sha256": "0b784957bc59e7809a30c53cedb9d40de27874dc4ec2ec779c0b7e2615c307c1",
+    "original_sha256": "988ab66ca7f87207daf7765393fe9da3f53f0cf3fd948f9814d87e77f02248eb",
+    "bytes": 6309,
+    "adaptation": "historical relative links rendered as text; provenance preface added"
+  },
+  {
+    "source": "1592/v3-exsum/THEORY.md",
+    "path": "artifacts/theory/ADDITIONAL_THEORY.md",
+    "sha256": "4be9a4c9e1a4b21d5ca04a27728a0097a8e716377d06632870d13f1fc7db838f",
+    "original_sha256": "6478141263754b1b2693794b2b9ac0d28a474a30fd7073a05f08991628094009",
+    "bytes": 16233,
+    "adaptation": "historical relative links rendered as text; provenance preface added"
+  }
+]

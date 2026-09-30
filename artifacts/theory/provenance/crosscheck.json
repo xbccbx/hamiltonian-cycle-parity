@@ -1,0 +1,24 @@
+{
+  "runs": 116,
+  "suite_counts": {
+    "calibration": 18,
+    "size": 56,
+    "breadth": 24,
+    "lower": 18
+  },
+  "statuses": {
+    "ok": 116
+  },
+  "complete_evaluation_pairs": 49,
+  "distinct_input_graphs": 55,
+  "complete_calibration_groups": 6,
+  "incomplete_evaluation_groups": 0,
+  "answer_mismatches": 0,
+  "fixed_diagonal_p2_mismatches": 0,
+  "noncompleted_runs": [],
+  "excluded_exploration_files": [
+    "pilot.jsonl",
+    "verification.json",
+    "verification_v2.json"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "sizes": [
+    20,
+    22,
+    24,
+    26,
+    28,
+    30,
+    32
+  ],
+  "graph_seeds": [
+    9001,
+    9002,
+    9003
+  ],
+  "repetitions": 3,
+  "threads": 1,
+  "cpu": 0,
+  "timeout_s": 300,
+  "methods": [
+    "dp-bit",
+    "bh-ce",
+    "kw-ce"
+  ],
+  "dp_address_limit_bytes": 34359738368,
+  "polynomial_address_limit_bytes": 2147483648,
+  "source": "fresh timing of all three methods; no prior timing reused",
+  "ordering_seed": 15922032
+}

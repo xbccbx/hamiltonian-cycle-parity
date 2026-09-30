@@ -1,0 +1,16 @@
+{
+  "kw_layout": "half",
+  "bh_method": "bh-ce",
+  "kw_method": "kw-ce",
+  "threads": 1,
+  "full_determinization": true,
+  "relative_geometric_mean": {
+    "half": 1.0,
+    "wide": 1.4592919827070872
+  },
+  "training_graph_seeds": [
+    8101,
+    8102
+  ],
+  "frozen": true
+}

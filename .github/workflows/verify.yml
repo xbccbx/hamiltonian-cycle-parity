@@ -1,0 +1,30 @@
+name: Verify research artifacts
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    env:
+      OMP_NUM_THREADS: "2"
+      OMP_DYNAMIC: "FALSE"
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - name: Independent mathematical checks
+        run: python3 -B artifacts/verify_math.py
+      - name: Recompute archived statistics and plots
+        run: |
+          python3 -m venv .venv
+          .venv/bin/python -m pip install -r requirements.txt
+          .venv/bin/python -B artifacts/build_artifacts.py
+      - name: Build C++ implementations
+        run: make -j2
+      - name: C++ correctness suites
+        run: make check

@@ -1,0 +1,2 @@
+# Only needed to regenerate archived tables and plots.
+matplotlib>=3.8,<4

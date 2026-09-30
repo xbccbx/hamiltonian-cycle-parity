@@ -1,0 +1,3 @@
+* text=auto
+# Frozen artifact hashes include the original line endings.
+artifacts/** -text

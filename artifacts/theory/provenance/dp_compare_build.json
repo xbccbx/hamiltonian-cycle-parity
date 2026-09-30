@@ -1,0 +1,11 @@
+{
+  "run_dp_compare.py": "afcdc04e23b59da45178169f1478d27584639b53b390a725375cb84f6c58c307",
+  "bench_dp": "aae00c66993e2ed277a9062ded77acabbcabfabdbdfc6d840534910a87ddad2f",
+  "../practical/baseline.cpp": "ba5bf75105780667daf132c95fa4806daca732b69a00eeb296ef70c022f9cfdf",
+  "bench_poly": "8217114b5afbac5630acb9bc86c4e3d89d5973acd0a31d98d5a1db975e57aa0e",
+  "bench_poly.cpp": "815627846796727cd4cafbc44584e9838d828572d1dcc2ec88597528bdaaf387",
+  "input_families.hpp": "49eae6f213e4e692771f03da39cc149b4aee91c5671b16ec745a3ae4e3718f81",
+  "results/configuration.json": "d831af0d7cf2f4aae812f1653b5970b257c05077ca0e248fa781f1574ad84bbd",
+  "results/size.jsonl": "7d76e5188e0a43ffd7fce6417304ebee1532af26b75f33f2c6761bb32a1c743d",
+  "results/lower.jsonl": "f88e672b8af485f0c3b914b6438e1d8a3cd9a01b3bd9910c6ec6dbdca1ea44f3"
+}

@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying manuscript."
+title: "Directed Hamiltonian-Cycle Parity in O*((3/2)^n) Deterministic Time and Polynomial Space"
+type: software
+authors:
+  - family-names: Li
+    given-names: Hanqing
+  - family-names: Chen
+    given-names: Boxuan
+  - family-names: Miao
+    given-names: Xupeng
+repository-code: "https://github.com/xbccbx/hamiltonian-cycle-parity"
+license: MIT
+preferred-citation:
+  type: unpublished
+  title: "Directed Hamiltonian-Cycle Parity in O*((3/2)^n) Deterministic Time and Polynomial Space"
+  authors:
+    - family-names: Li
+      given-names: Hanqing
+    - family-names: Chen
+      given-names: Boxuan
+    - family-names: Miao
+      given-names: Xupeng
+  year: 2026
