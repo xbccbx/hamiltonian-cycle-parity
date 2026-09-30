@@ -1,7 +1,7 @@
 # Directed Hamiltonian-Cycle Parity
 
 Research code and reproducibility artifacts for **Directed Hamiltonian-Cycle
-Parity in O*((3/2)^n) Deterministic Time and Polynomial Space**, by Hanqing Li,
+Parity in O\*((3/2)^n) Deterministic Time and Polynomial Space**, by Hanqing Li,
 Boxuan Chen, and Xupeng Miao (Peking University).
 
 This repository contains C++ implementations, an independent Python checker,
